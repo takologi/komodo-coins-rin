@@ -446,7 +446,8 @@
         "1770794458": "online",
         "1771550721": "offline",
         "1771824489": "online",
-        "1772144114": "offline"
+        "1772144114": "offline",
+        "1772582922": "online"
       },
       "https://api.avax.network/ext/bc/C/rpc": {
         "1755770395": "online"
@@ -1038,7 +1039,8 @@
   "BITN": {
     "all": {
       "1755770395": "offline",
-      "1768093005": "online"
+      "1768093005": "online",
+      "1772582922": "offline"
     },
     "by_server": {
       "194.163.176.151:50001": {
@@ -1090,6 +1092,13 @@
           ]
         },
         "bit-e.minethepla.net:50004": {
+          "contact": [
+            {
+              "discord": "def#4726"
+            }
+          ]
+        },
+        "bit-e.outsidethebox.top:50002": {
           "contact": [
             {
               "discord": "def#4726"
@@ -1156,11 +1165,13 @@
         "1772144114": "offline"
       },
       "bit-e.outsidethebox.top:50002": {
-        "1768093005": "online"
+        "1768093005": "online",
+        "1772582922": "offline"
       },
       "bit-e.outsidethebox.top:50004": {
         "1768093005": "offline",
-        "1768180562": "online"
+        "1768180562": "online",
+        "1772582922": "offline"
       },
       "bitchair.io:50001": {
         "1755770395": "offline"
@@ -2382,7 +2393,8 @@
         "1766366022": "offline",
         "1766452233": "online",
         "1769476724": "offline",
-        "1771550721": "online"
+        "1771550721": "online",
+        "1772582922": "offline"
       },
       "electrumx.dgc.ewmcx.org:50002": {
         "1755770395": "online",
@@ -2401,7 +2413,8 @@
         "1766452233": "online",
         "1770168231": "offline",
         "1770254634": "online",
-        "1772144114": "offline"
+        "1772144114": "offline",
+        "1772582922": "online"
       },
       "failover.dgc.ewmcx.biz:50003": {
         "1755770395": "online",
@@ -2411,7 +2424,8 @@
         "1766452233": "online",
         "1770168231": "offline",
         "1770254634": "online",
-        "1772144114": "offline"
+        "1772144114": "offline",
+        "1772582922": "online"
       }
     }
   },
@@ -2864,13 +2878,15 @@
         "1755770395": "online",
         "1770168231": "offline",
         "1770600592": "online",
-        "1772144114": "offline"
+        "1772144114": "offline",
+        "1772582922": "online"
       },
       "ugly-bird-70.doi.works:50004": {
         "1755770395": "online",
         "1770168231": "offline",
         "1770600592": "online",
-        "1772144114": "offline"
+        "1772144114": "offline",
+        "1772582922": "online"
       }
     }
   },
@@ -6039,7 +6055,8 @@
         "1771205359": "online",
         "1771378210": "offline",
         "1771550721": "online",
-        "1772241499": "offline"
+        "1772241499": "offline",
+        "1772582922": "online"
       },
       "https://moonriver.unitedbloc.com": {
         "1755770395": "online",
@@ -6078,7 +6095,8 @@
         "1771205359": "online",
         "1771378210": "offline",
         "1771550721": "online",
-        "1772241499": "offline"
+        "1772241499": "offline",
+        "1772582922": "online"
       },
       "wss://moonriver.unitedbloc.com": {
         "1755770395": "online",
@@ -6863,7 +6881,8 @@
         "1770794458": "online",
         "1771550721": "offline",
         "1771824489": "online",
-        "1772144114": "offline"
+        "1772144114": "offline",
+        "1772582922": "online"
       },
       "https://api.harmony.one": {
         "1755770395": "online"
@@ -7697,15 +7716,18 @@
       },
       "electrum4.runebase.io:50001": {
         "1755770395": "offline",
-        "1770168231": "online"
+        "1770168231": "online",
+        "1772582922": "offline"
       },
       "electrum4.runebase.io:50002": {
         "1755770395": "offline",
-        "1770168231": "online"
+        "1770168231": "online",
+        "1772582922": "offline"
       },
       "electrum4.runebase.io:50004": {
         "1755770395": "offline",
-        "1770168231": "online"
+        "1770168231": "online",
+        "1772582922": "offline"
       }
     }
   },
