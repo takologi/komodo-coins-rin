@@ -3503,7 +3503,8 @@
     "all": {
       "1755770395": "online",
       "1770168231": "offline",
-      "1770600592": "online"
+      "1770600592": "online",
+      "1772929548": "offline"
     },
     "by_server": {
       "_metadata": {
@@ -3539,7 +3540,8 @@
       "electrumx1.flopcoin.net:10001": {
         "1755770395": "online",
         "1770168231": "offline",
-        "1770600592": "online"
+        "1770600592": "online",
+        "1772929548": "offline"
       },
       "electrumx1.flopcoin.net:10003": {
         "1755770395": "online",
@@ -3548,7 +3550,8 @@
       "electrumx1.flopcoin.net:10004": {
         "1755770395": "online",
         "1770168231": "offline",
-        "1770600592": "online"
+        "1770600592": "online",
+        "1772929548": "offline"
       },
       "electrumx2.flopcoin.net:10001": {
         "1755770395": "online",
@@ -4483,12 +4486,14 @@
       "il9p.electrumx.transcenders.name:50002": {
         "1755770395": "online",
         "1758502268": "offline",
-        "1758586414": "online"
+        "1758586414": "online",
+        "1772929548": "offline"
       },
       "il9p.electrumx.transcenders.name:50003": {
         "1755770395": "online",
         "1758502268": "offline",
-        "1758586414": "online"
+        "1758586414": "online",
+        "1772929548": "offline"
       }
     }
   },
@@ -6058,7 +6063,8 @@
         "1771378210": "offline",
         "1771550721": "online",
         "1772241499": "offline",
-        "1772355424": "online"
+        "1772355424": "online",
+        "1772929548": "offline"
       },
       "https://moonriver.unitedbloc.com": {
         "1755770395": "online",
@@ -6098,7 +6104,8 @@
         "1771378210": "offline",
         "1771550721": "online",
         "1772241499": "offline",
-        "1772355424": "online"
+        "1772355424": "online",
+        "1772929548": "offline"
       },
       "wss://moonriver.unitedbloc.com": {
         "1755770395": "online",
